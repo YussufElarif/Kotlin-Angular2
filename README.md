@@ -8,7 +8,6 @@ Demo app based on Kotlin and Angular 2
 npm install
 npm start
 ```
----------------------------------
 
 ```cd``` into kotlin app
 <br/>
